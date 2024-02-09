@@ -3,12 +3,14 @@
 *.pyc
 __pycache__/
 
-instance/
+.instance/*
 
 .pytest_cache/
 .coverage
 htmlcov/
-
+instance/
 dist/
 build/
 *.egg-info/
+__pycache__/
+flaskr/__pycache__/
