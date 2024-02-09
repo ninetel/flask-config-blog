@@ -1,3 +1,3 @@
-class config(object):
-    "d":22;
+# class config(object):
+#     "d":22;
     
